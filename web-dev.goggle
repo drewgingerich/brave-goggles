@@ -1,0 +1,21 @@
+! name: Web Development
+! description: Promotes resources useful for web development
+! public: false
+! author: Drew Gingerich
+
+$boost=1,site=developer.mozilla.org
+$boost=1,site=github.com
+$boost=1,site=stackoverflow.com
+$boost=1,site=martinfowler.com
+$boost=1,site=reddit.com
+$boost=1,site=wikipedia.org
+
+/reference.$boost=1
+/reference/$boost=1
+/learn.$boost=1
+/learn/$boost=1
+/docs.$boost=1
+/docs/$boost=1
+/blog.$boost=1
+/blog/$boost=1
+/engineering.$boost=1
